@@ -1,1 +1,1 @@
-my firest git push from command line interface CLI.
+my firest git push interface CLI.
